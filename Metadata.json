@@ -1,0 +1,20 @@
+{
+    "Author": "Tariq Younas",
+    "ContentSize": 2534,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-vm-using-powershell/master/ProvisioningAzureVM.ps1",
+    "DownloadCount": 581,
+    "Id": "Azure-VM-Using-PowerShell-0ce51c36",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 500,
+    "RaterCount": 5,
+    "Rating": 4.8,
+    "ReleaseDate": "2017-2-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creating Virtual Machine using PowerShell is quite easy. You just need to replace the parameters. VM required to be placed in proper Resource Group, Storage Account to hold the disks, Virtual Network to identify on network and security stuff, IPs for communication.  All these has",
+    "Title": "Azure VM Using PowerShell",
+    "UpdatedDate": "2017-2-22T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-vm-using-powershell",
+    "UserTags": ""
+}
